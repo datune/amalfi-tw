@@ -11,7 +11,7 @@
     "production": "mix --production"
   },
   "author": "Jürgen Hauser",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
     "cross-env": "^7.0.3",
