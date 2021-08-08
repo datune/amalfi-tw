@@ -1,2 +1,2 @@
 # amalfi-tw
-Boilerplate Tailwind Theme
+Boilerplate Tailwind Theme for Winter CMS
