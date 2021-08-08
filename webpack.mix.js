@@ -10,9 +10,4 @@ let postCssPlugins = [
 mix.setPublicPath('./')
     .js('assets/src/js/vendor.js', 'assets/dist/js')
     .js('assets/src/js/app.js', 'assets/dist/js')
-    .postCss('assets/src/css/style.css', 'assets/dist/css', postCssPlugins)
-    .options({
-        terser: {
-            extractComments: false,
-        }
-    });
+    .postCss('assets/src/css/style.css', 'assets/dist/css', postCssPlugins);
